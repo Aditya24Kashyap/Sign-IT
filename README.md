@@ -1,4 +1,4 @@
-# ✍️ Signature App with Dark Mode 🌙
+# ✍️ Signature App Sign-IT
 
 A simple and elegant **Signature Drawing Web App** built using **HTML, CSS, and JavaScript**.  
 Users can draw signatures, change pen size & color, and save/retrieve their signature.
