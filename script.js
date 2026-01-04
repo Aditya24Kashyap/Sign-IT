@@ -81,3 +81,15 @@ retrieveButton.addEventListener("click", () => {
   img.onload = () => ctx.drawImage(img, 0, 0);
   img.src = data;
 });
+
+const modeToggle = document.getElementById("modeToggle");
+
+modeToggle.addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+
+  if (document.body.classList.contains("dark-mode")) {
+    modeToggle.textContent = "☀️ Light Mode";
+  } else {
+    modeToggle.textContent = "🌙 Dark Mode";
+  }
+});

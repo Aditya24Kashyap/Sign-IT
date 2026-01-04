@@ -24,3 +24,22 @@ canvas {
   gap: 10px;
   justify-content: center;
 }
+
+/* Light mode (default) */
+body {
+  background-color: #f8f9fa;
+  color: #212529;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode (gunpowder) */
+body.dark-mode {
+  background-color: #2C2F3A; /* gunpowder */
+  color: #E5E7EB;
+}
+
+/* Canvas must stay white */
+canvas {
+  background-color: white;
+}
+
