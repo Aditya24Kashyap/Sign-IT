@@ -12,6 +12,8 @@ Users can draw signatures, change pen size & color, and save/retrieve their sign
 - 📏 Adjust pen size
 - 💾 Save signature as image (PNG)
 - 🔁 Retrieve saved signature from localStorage
+- 🌙 Dark Mode toggle (Gunpowder theme)
+- ☀️ Light Mode support
 - 🧹 Clear canvas
 - 📱 Responsive UI
 
