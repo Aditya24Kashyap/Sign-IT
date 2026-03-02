@@ -1,4 +1,4 @@
-# ✍️ Signature App Sign-IT
+# Signature App Sign-IT
 
 A simple and elegant **Signature Drawing Web App** built using **HTML, CSS, and JavaScript**.  
 Users can draw signatures, change pen size & color, and save/retrieve their signature.
@@ -27,3 +27,7 @@ Users can draw signatures, change pen size & color, and save/retrieve their sign
 - **Bootstrap** – UI components
 
 ---
+
+## Update make it better 
+make it look like a notepad 
+with all features
